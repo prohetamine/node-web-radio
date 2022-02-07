@@ -20,7 +20,7 @@
     "express": "^4.17.2",
     "http": "^0.0.1-security",
     "path": "^0.12.7",
-    "radio-station": "github:prohetamine/radio-station",
+    "radio-station": "^0.0.12",
     "socket.io": "^4.4.1"
   }
 }
