@@ -25,7 +25,7 @@ $ npm install
 Now just run and go to the default address http://localhost:8080
 
 ```sh
-$ yarn start
+$ npm run start
 ```
 
 ### Contacts
