@@ -20,8 +20,6 @@ $ cd node-web-radio
 $ npm install
 ```
 
-In addition, you should also install [ffmpeg](https://ffmpeg.org/download.html) and puppeteer and make sure that they are available and working.
-
 ### Examples and description
 
 Now just run and go to the default address http://localhost:8080
