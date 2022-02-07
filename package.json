@@ -1,7 +1,7 @@
 {
   "name": "web-radio",
   "version": "1.0.0",
-  "description": "",
+  "description": "🎙 📡 radio station for nodejs, this example is for the main radio-station library.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
