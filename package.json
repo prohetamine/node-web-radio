@@ -1,0 +1,22 @@
+{
+  "name": "web-radio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prohetamine/node-web-radio.git"
+  },
+  "author": "Stas Prohetamine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prohetamine/node-web-radio/issues"
+  },
+  "homepage": "https://github.com/prohetamine/node-web-radio#readme",
+  "dependencies": {
+    "radio-station": "github:prohetamine/radio-station"
+  }
+}
