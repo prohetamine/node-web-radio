@@ -15,7 +15,7 @@ The ability to broadcast radio from a server without a launcher makes it possibl
 Clone the github repository and install nodejs.
 
 ```sh
-$ git clone git@github.com:prohetamine/node-web-radio.git
+$ git clone https://github.com/prohetamine/node-web-radio.git
 $ cd node-web-radio
 $ npm install
 ```
