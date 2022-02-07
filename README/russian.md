@@ -25,7 +25,7 @@ $ npm install
 Теперь просто запустите и перейдите по адресу по умолчанию http://localhost:8080
 
 ```sh
-$ yarn start
+$ npm run start
 ```
 
 ### Контакты
