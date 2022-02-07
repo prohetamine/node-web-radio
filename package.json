@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/prohetamine/node-web-radio#readme",
   "dependencies": {
-    "radio-station": "github:prohetamine/radio-station"
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "radio-station": "github:prohetamine/radio-station",
+    "socket.io": "^4.4.1"
   }
 }
